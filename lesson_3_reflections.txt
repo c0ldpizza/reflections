@@ -6,7 +6,7 @@ When would you want to create a remote repository rather than keep all your work
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+    If the remote repository is public, automatic updates could result in part of your code changing somewhere you weren't expecting, resulting in a bug. It lets you merge when you are confident that your code is working.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
