@@ -20,12 +20,12 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    It allows you to work offline for a period by snapshotting others' changes
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    Without GitHub, you would have to transfer files by email and find a way to compare differences before combining each others' changes. Sounds like a nightmare. GitHub makes it much easier.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
