@@ -1,0 +1,4 @@
+When would you want to create a remote repository rather than keep all your work local?
+
+  In my case, it is useful because I have been completing this course on both my desktop and laptop interchangably, 
+  a remote repository will enable me to keep repositories on both my machines identical.
